@@ -1,0 +1,59 @@
+.navheader {
+  height:87px;
+  color: #fff;
+  font-size: 20px;
+
+  .bold {
+    font-weight: bold
+  }
+
+  p {
+    margin: 0;
+  }
+
+  .logo {
+    padding: 30px 30px 0px 30px;
+
+    p {
+      margin: 0;
+      text-align: left;
+      line-height: 54px;
+      margin-left: 10px;
+      font-size: 36px;
+    }
+  }
+
+  .logo-hui {
+    p {
+      color: #bbb;
+    }
+
+
+
+  }
+
+  .location {
+    height: 45px;
+    line-height: 45px;
+    text-align: left;
+
+    p {
+      font-size: 17pt;
+    }
+  }
+
+  .navRight {
+    padding: 30px 30px 0px 30px;
+    float: right;
+
+    .title {
+      font-weight: bold;
+      height: 57px;
+      line-height: 57px;
+    }
+
+    .floatRight {
+      text-align: right;
+    }
+  }
+}
